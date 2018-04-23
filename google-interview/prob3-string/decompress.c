@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+Time complexity : O(n)
+Space complexity : O(n)
+*/
+
 #define MAX 1000
 
 struct packet {

@@ -1,3 +1,8 @@
+/*
+Space complexity : O(height) / O(height * width)
+Time complexity : O(width*height)
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

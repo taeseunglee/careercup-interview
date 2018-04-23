@@ -1,3 +1,9 @@
+/*
+n : the length of the string
+m : the length of the pattern
+Space complexity : O(n+m)
+Time complexity : O(n)
+*/
 #include <stdio.h>
 #include <string.h>
 #define MAX 100
